@@ -2,6 +2,12 @@
 
 **The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection**
 
+
+----------
+changedetection utiliza esta imagen de docker:
+https://github.com/dgtlmoon/changedetection.io
+----------
+
 #### Example use cases
 
 - Products and services have a change in pricing
