@@ -1,0 +1,7 @@
+Sobreescribir los archivos con los del github de jdeath:
+https://github.com/jdeath/homeassistant-addons
+descargar el zip y sobreescribir todo
+
+editar el config.json y cambiar la url de nuestro browserless, el predefinido está mal, el nuestro es 2937404c-browserless-chrome:
+
+    "PLAYWRIGHT_DRIVER_URL": "ws://2937404c-browserless-chrome:3000/?stealth=1&--disable-web-security=true",
